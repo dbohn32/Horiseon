@@ -1,6 +1,7 @@
 # Horiseon
 The goal of this website is to provide insight into the Horiseon website. It is meant to be accessible to everyone who needs to use it.
 
+ <img src="./assets/Screenshot (7).png">
  <img src="./assets/Screenshot (8).png">
 
 # FIXES
